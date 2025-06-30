@@ -16,7 +16,7 @@ export const PROJECTS: Project[] = [
     date: 'June 2025',
     images: ['portfolio-1.jpg', 'portfolio-2.jpg', 'portfolio-3.jpg','portfolio-4.jpg','portfolio-5.jpg'],
     github: 'https://github.com/abhishek8524/Abhishek-portfolio-2025.git',
-    liveDemo: 'https://abhish31.dev.fast.sheridanc.on.ca/Angular_App/'
+    liveDemo: 'https://www.abhisheksportfolio.live/'
   },
    {
     title: 'Book Inventory App',
