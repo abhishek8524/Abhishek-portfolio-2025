@@ -10,7 +10,7 @@ export interface Project {
 
 export const PROJECTS: Project[] = [
   {
-    title: 'Portfolio Website',
+    title: 'Portfolio Angular Website',
     description: 'A personal portfolio built with Angular,  Typescript, and Bootstrap. Features dark mode, responsive layout, and animations.',
     tech: ['Angular', 'TypeScript', 'Bootstrap'],
     date: 'June 2025',
